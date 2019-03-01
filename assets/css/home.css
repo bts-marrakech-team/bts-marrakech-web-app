@@ -1,0 +1,109 @@
+a:active, 
+a:link, 
+a:visited {  
+  color: #336699; 
+  text-decoration: none; 
+  font-weight: bold; 
+  font-family: Arial; 
+  font-size: 8pt;
+}
+
+a:hover {
+  color: #db9504; 
+  text-decoration: none
+}
+
+td {
+  font-family: Arial;
+  font-size: 7pt;
+  font-style: normal;
+  color: #000000
+}
+
+input { 
+  color: #000000; 
+  border-bottom-width: 1px; 
+  border-left-width: 1px; 
+  border-right-width: 1px; 
+  border-top-width: 1px; 
+  border-bottom-color: #000000; 
+  border-left-color: #000000; 
+  border-right-color: #000000; 
+  border-top-color: #000000; 
+  font-family: 'verdana', 'arial', 'helvetical', 'geneva', sans-serif; font-size: 11px; 
+  background: #D0DDEA;
+}
+
+textarea { 
+  color: #000000; 
+  border-bottom-width: 1px; 
+  border-left-width: 1px; 
+  border-right-width: 1px; 
+  border-top-width: 1px; 
+  border-bottom-color: #000000; 
+  border-left-color: #000000; 
+  border-right-color: #000000; 
+  border-top-color: #000000; 
+  font-family: 'verdana', 'arial', 'helvetical', 'geneva', sans-serif; 
+  font-size: 10px; 
+  background: #D0DDEA; 
+}
+
+select { 
+  color: #000000; 
+  border-bottom-width: 1px; 
+  border-left-width: 1px; 
+  border-right-width: 1px; 
+  border-top-width: 1px; 
+  border-bottom-color: #000000; 
+  border-left-color: #000000; 
+  border-right-color: #000000; 
+  border-top-color: #000000; 
+  font-family: 'verdana', 'arial', 'helvetical', 'geneva', sans-serif; font-size: 10px;
+  background: #D0DDEA; 
+}
+
+a.menu:active, 
+a.menu:link, 
+a.menu:visited {
+	color: #D5EAFF;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 7pt;
+}
+
+a.menu:hover {  
+  color: #42f4b3; 
+  text-decoration: none
+} 
+
+.style2 {
+  color: #db9504;
+  text-align: center;
+}
+
+.style3 {color: #ECA20D}
+.style6 {color: #FFFFFF}
+.Style7 {font-size: 7pt}
+
+.Style8 {
+  color: #990000;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.Style9 {font-size: 9pt}
+/*.Style13 {font-size: 10px}*/
+/*.Style14 {font-size: 11px}*/
+/*.Style15 {font-size: 8px}*/
+/*.Style16 {font-size: 7px}*/
+/*.Style17 {font-size: 16px}*/
+/*.Style18 {font-family: "Times New Roman", Times, serif}*/
+/*.Style20 {color: #000000}*/
+/*.Style21 {color: #990000}*/
+.comp {color: #ECA13A;}
+.ccccc {font-weight: bold;}
+.comdpc {color: #F90;}
+.ttt {text-align: center;}
