@@ -1,0 +1,8 @@
+• push commits :
+1 . git init (1)
+2 . git add .
+3 . git commit -m "[Initial commit | Task : ... | Fix : ...]"
+4 . git remote add origin "link" (1)
+5 . git push origin master
+• clone repository :
+1 . git clone "link"
